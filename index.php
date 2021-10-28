@@ -1,5 +1,5 @@
 <?php
 
-echo "mensaje1";
+echo "mensaje_nueva_rama";
 
 ?>
